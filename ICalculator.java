@@ -1,0 +1,3 @@
+interface ICalculator {
+    void calculateSalary();
+}
